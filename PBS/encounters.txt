@@ -1,0 +1,22 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[043] # Route02
+Land,25
+    20,BIDOOF,3,4
+    20,PIDGEY,3,4
+    20,SPINARAK,3,5
+    20,YUNGOOS,3,4
+    10,PIDOVE,3,5
+    2,RIOLU,4,5
+#-------------------------------
+[079] # Route01
+Land,21
+    20,DURANT,5
+#-------------------------------
+[084] # Route03
+Land,21
+    20,HOOTHOOT,4,5
+    20,SWINUB,3,5
+    10,SPEAROW,4,5
+    6,EKANS,4,5
+    20,RATTATA,3,5
