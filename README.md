@@ -22,5 +22,7 @@ To check if you have the most recent version, go to recent commits and see when 
 2. Download the zip file to your device
 
 ![sec](Picture2.png)
+
 3. Extract the zip file to your desired location and REPLACE ALL FILES WHEN ASKED
+
 4. Navigate to the extracted zip file location and run the Game.exe file.
