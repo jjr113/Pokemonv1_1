@@ -6,6 +6,6 @@
 ![First](Picture1.png)
 2. Download the zip file to your device
 
+![sec](Picture2.png)
 3. Extract the zip file to your desired location
-
 4. Navigate to the extracted zip file location and run the Game.exe file.
