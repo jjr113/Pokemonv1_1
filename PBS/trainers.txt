@@ -134,3 +134,9 @@ Pokemon = MAKUHITA,5
 LoseText = "..."
 Pokemon = MANKEY,4
 Pokemon = MAKUHITA,5
+#-------------------------------
+[BULLY,Taz]
+LoseText = "UGH I lost!"
+Pokemon = CHIKORITA,5
+Pokemon = RHYHORN,5
+Pokemon = SILCOON,5
