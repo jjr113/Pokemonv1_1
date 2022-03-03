@@ -1,5 +1,8 @@
 # Pokemonv1_1
 ## Game Description:
+
+...Add description here...
+
 ## Installation steps:
 1. Click the green CODE button near the top of this page
 
