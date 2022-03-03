@@ -417,7 +417,7 @@ Outdoor = true
 Weather = HeavyRain,100
 #-------------------------------
 [079]
-# Route
+# Route01
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -427,3 +427,11 @@ Bicycle = true
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[084]
+# Route03
+#-------------------------------
+[086]
+# Dreamv2
+Outdoor = true
+Weather = Storm,100
