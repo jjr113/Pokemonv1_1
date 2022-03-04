@@ -46,21 +46,27 @@
 48,North,32,84,South,0
 # Route01 (79) - Route03 (84)
 79,North,83,84,South,0
-# MAP082 (82) - Route03 (84)
-82,West,24,84,East,0
+# GrassRegionN (85) - Route03 (84)
+85,West,24,84,East,0
+# GrassRegionS (87) - Route03 (84)
+87,West,0,84,East,26
 # Dawnscape (48) - Route02 (43)
 48,East,0,43,West,0
 # College (80) - Route02 (43)
 80,South,87,43,North,0
-# MAP082 (82) - Route02 (43)
-82,South,0,43,North,31
+# GrassRegionS (87) - Route02 (43)
+87,South,0,43,North,31
 # College (80) - Dawnscape (48)
 80,South,47,48,North,0
 # Route01 (79) - Dawnscape (48)
 79,East,0,48,West,0
-# MAP082 (82) - Dawnscape (48)
-82,South,0,48,North,71
+# GrassRegionS (87) - Dawnscape (48)
+87,South,0,48,North,71
 # Route01 (79) - College (80)
 79,North,4,80,South,0
-# MAP082 (82) - Route01 (79)
-82,South,0,79,North,122
+# GrassRegionN (85) - College (80)
+85,South,0,80,North,118
+# GrassRegionS (87) - Route01 (79)
+87,South,0,79,North,122
+# GrassRegionS (87) - GrassRegionN (85)
+87,North,0,85,South,0
