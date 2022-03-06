@@ -8,8 +8,8 @@ WildVictoryME = Battle victory wild.ogg
 TrainerVictoryME = Battle victory trainer.ogg
 SurfBGM = Surfing.mid
 BicycleBGM = Bicycle.mid
-PlayerA = POKEMONTRAINER_Brendan,trainer_POKEMONTRAINER_Brendan,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
-PlayerB = POKEMONTRAINER_May,trainer_POKEMONTRAINER_May,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
 #-------------------------------
 [001]
 # Intro
@@ -167,6 +167,10 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[032]
+# Eve House
+ShowArea = true
+#-------------------------------
 [033]
 # Route 1
 Outdoor = true
@@ -223,6 +227,16 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[042]
+# Lecture Hall Classroom
+ShowArea = true
+#-------------------------------
+[043]
+# Route0
+ShowArea = true
+Bicycle = false
+Weather = Rain,20
 #-------------------------------
 [044]
 # Route 6
@@ -412,26 +426,61 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [076]
-# Dream
-Outdoor = true
-Weather = HeavyRain,100
+# Makhis House
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[077]
+# \PN House
+ShowArea = true
+#-------------------------------
+[078]
+# Professor Jake's Lab
+ShowArea = true
 #-------------------------------
 [079]
-# Route01
+# School route
 Outdoor = true
 ShowArea = true
 Bicycle = true
 #-------------------------------
 [080]
-# College
+# School of Pokemon
 Outdoor = true
 ShowArea = true
-Bicycle = true
+Bicycle = false
+#-------------------------------
+[081]
+# Lecture Hall
+ShowArea = true
+#-------------------------------
+[082]
+# Fishing Club
+ShowArea = true
+#-------------------------------
+[083]
+# School Poke Center
+ShowArea = true
 #-------------------------------
 [084]
-# Route03
+# Route01
+Outdoor = true
+ShowArea = true
+Weather = Rain,34
+#-------------------------------
+[085]
+# GrassRegionN
+Outdoor = true
+ShowArea = true
+Weather = Rain,37
 #-------------------------------
 [086]
 # Dreamv2
 Outdoor = true
 Weather = Storm,100
+#-------------------------------
+[087]
+# GrassRegionS
+Outdoor = true
+ShowArea = true
+Weather = Rain,40

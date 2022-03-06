@@ -37,8 +37,8 @@ Pokemon = ELECTABUZZ,20
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = "Aww, I lost."
-Pokemon = RATTATA,11
-Pokemon = EKANS,11
+Pokemon = RATTATA,4
+Pokemon = EKANS,5
 #-------------------------------
 [CAMPER,Jeff]
 LoseText = "A very good battle, indeed!"
