@@ -121,9 +121,17 @@ Pokemon = BLASTOISE,63
 LoseText = "Not too shabby. Keep up the work!"
 Pokemon = CHARMANDER,5
 #-------------------------------
-[NEZUKO,Nezuko]
+[TRAINER,Eve,1]
+LoseText = "No fair I shouldve won!"
+Pokemon = MUDKIP,5
+#-------------------------------
+[TRAINER,Eve,2]
 LoseText = "No fair I shouldve won!"
 Pokemon = CHIMCHAR,5
+#-------------------------------
+[TRAINER,Eve,3]
+LoseText = "No fair I shouldve won!"
+Pokemon = BULBASAUR,5
 #-------------------------------
 [BLACKBELT,Kade]
 LoseText = "Not too shabby. Keep up the work!"
