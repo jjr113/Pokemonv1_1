@@ -36,39 +36,29 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
-# Route00 (43) - Route01 (84)
-43,North,0,84,South,8
 # Dawnscape (48) - Route00 (43)
 48,East,0,43,West,0
 # School of Pokemon (80) - Route00 (43)
 80,South,87,43,North,0
-# GrassRegionS (87) - Route00 (43)
-87,South,0,43,North,31
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
-# Dawnscape (48) - Route01 (84)
-48,North,32,84,South,0
 # School of Pokemon (80) - Dawnscape (48)
 80,South,47,48,North,0
 # School route (79) - Dawnscape (48)
 79,East,0,48,West,0
-# GrassRegionS (87) - Dawnscape (48)
-87,South,0,48,North,71
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# School route (79) - Route01 (84)
-79,North,83,84,South,0
 # School route (79) - School of Pokemon (80)
 79,North,4,80,South,0
-# GrassRegionS (87) - School route (79)
-87,South,0,79,North,122
-# GrassRegionN (85) - School of Pokemon (80)
-85,South,0,80,North,118
+# Route01 (84) - Route-1 (102)
+84,South,0,102,North,4
+# Silverkeep (88) - Route-1 (102)
+88,East,38,102,West,0
+# GrassRegionS (87) - Route-1 (102)
+87,South,0,102,North,43
 # GrassRegionN (85) - Route01 (84)
 85,West,24,84,East,0
 # GrassRegionS (87) - Route01 (84)
 87,West,0,84,East,26
 # GrassRegionS (87) - GrassRegionN (85)
 87,North,0,85,South,0
-# Route-1 (102) - Silverkeep (88)
-102,West,0,88,East,38
