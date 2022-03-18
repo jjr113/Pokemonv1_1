@@ -233,7 +233,7 @@ MapSize = 1,111
 ShowArea = true
 #-------------------------------
 [043]
-# Route0
+# Route00
 ShowArea = true
 Bicycle = false
 Weather = Rain,20
@@ -463,16 +463,16 @@ ShowArea = true
 ShowArea = true
 #-------------------------------
 [084]
-# Route01
+# Route-1
 Outdoor = true
 ShowArea = true
-Weather = Rain,34
+Weather = Rain,24
 #-------------------------------
 [085]
-# GrassRegionN
+# Grass Region North
 Outdoor = true
 ShowArea = true
-Weather = Rain,37
+Weather = Rain,27
 #-------------------------------
 [086]
 # Dreamv2
@@ -480,7 +480,67 @@ Outdoor = true
 Weather = Storm,100
 #-------------------------------
 [087]
-# GrassRegionS
+# Grass Region South
 Outdoor = true
 ShowArea = true
-Weather = Rain,40
+Weather = Rain,20
+#-------------------------------
+[088]
+# Silverkeep
+Outdoor = true
+ShowArea = true
+Weather = Rain,15
+#-------------------------------
+[089]
+# \PN House
+ShowArea = true
+#-------------------------------
+[090]
+# Eve House
+ShowArea = true
+#-------------------------------
+[091]
+# Professor Jake's Lab
+ShowArea = true
+#-------------------------------
+[092]
+# Makhis House
+ShowArea = true
+#-------------------------------
+[093]
+# Casino
+ShowArea = true
+#-------------------------------
+[094]
+# SilverKeep Dept. 1F
+ShowArea = true
+#-------------------------------
+[095]
+# SilverKeep Dept. 2F
+ShowArea = true
+#-------------------------------
+[097]
+# Silverkeep Poke Center
+ShowArea = true
+#-------------------------------
+[098]
+# Pokémon Day Care
+ShowArea = true
+#-------------------------------
+[099]
+# Silverkeep Mart
+ShowArea = true
+#-------------------------------
+[100]
+# School of Pokemon
+ShowArea = true
+#-------------------------------
+[101]
+# Lecture Hall Classroom
+ShowArea = true
+#-------------------------------
+[102]
+# Scenic Route
+Outdoor = true
+ShowArea = true
+Weather = Rain,10

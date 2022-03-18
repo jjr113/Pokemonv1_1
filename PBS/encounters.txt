@@ -1,16 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[043] # Route0
-Land,12
-    22,BIDOOF,3,4
-    20,PIDGEY,3,4
-    20,SPINARAK,3,5
-    17,ZIGZAGOON,3,4
-    11,PIDOVE,3,5
-    7,ZORUA,3,5
-    1,RIOLU,4,5
-#-------------------------------
-[084] # Route01
+[084] # Route-1
 Land,20
     22,BIDOOF,3,4
     20,HOOTHOOT,4,5
@@ -19,55 +9,52 @@ Land,20
     10,SPEAROW,4,5
     6,EKANS,4,5
 #-------------------------------
-[085] # GrassRegionN
+[085] # Grass Region North
 Land,23
-    40,PIDGEY,3,4
-    40,MEOWTH,3,4
-    40,SHROOMISH,3,4
     40,HOOTHOOT,3,4
-    40,TANGELA,3,4
+    40,MEOWTH,3,4
+    40,PIDGEY,3,4
     40,RATTATA,3,4
     40,SENTRET,3,4
+    40,SHROOMISH,3,4
+    40,TANGELA,3,4
     30,SPINARAK,3,4
     30,STARLY,3,5
     30,TRANQUILL,3,5
+    20,JIGGLYPUFF,3,4
     20,LICKITUNG,3,4
     20,PIDOVE,3,5
-    20,JIGGLYPUFF,3,4
-    3,NIDORANmA,3,4
     3,NIDORANfE,3,4
-    1,ROSERADE,4,5
-    1,CELEBI,4,5
-    1,EEVEE,4,5
-    1,SHAYMIN,4,5
+    3,NIDORANmA,3,4
     1,BULBASAUR,4,5
-    1,DITTO,4,5
+    1,CELEBI,4,5
     1,CHANSEY,4,5
+    1,DITTO,4,5
+    1,EEVEE,4,5
+    1,ROSERADE,4,5
+    1,SHAYMIN,4,5
 #-------------------------------
-[087] # GrassRegionS
+[087] # Grass Region South
 Land,23
-    40,PIDGEY,3,4
-    40,MEOWTH,3,4
-    40,SHROOMISH,3,4
     40,HOOTHOOT,3,4
-    40,TANGELA,3,4
+    40,MEOWTH,3,4
+    40,PIDGEY,3,4
     40,RATTATA,3,4
     40,SENTRET,3,4
+    40,SHROOMISH,3,4
+    40,TANGELA,3,4
     30,SPINARAK,3,4
     30,STARLY,3,5
     30,TRANQUILL,3,5
+    20,JIGGLYPUFF,3,4
     20,LICKITUNG,3,4
     20,PIDOVE,3,5
-    20,JIGGLYPUFF,3,4
-    3,NIDORANmA,3,4
     3,NIDORANfE,3,4
-    1,ROSERADE,4,5
-    1,CELEBI,4,5
-    1,EEVEE,4,5
-    1,SHAYMIN,4,5
+    3,NIDORANmA,3,4
     1,BULBASAUR,4,5
-    1,DITTO,4,5
+    1,CELEBI,4,5
     1,CHANSEY,4,5
-
-    
-    
+    1,DITTO,4,5
+    1,EEVEE,4,5
+    1,ROSERADE,4,5
+    1,SHAYMIN,4,5
