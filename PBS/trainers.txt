@@ -58,8 +58,8 @@ Pokemon = MEOWTH,18
 LoseText = "Defeated! Oh my!"
 Pokemon = PERSIAN,32
 #-------------------------------
-[HIKER,Ford]
-LoseText = "You're too good for me!"
+[HIKER,Bob]
+LoseText = "Meh you're lucky I didnt bring more of my pokemon!"
 Pokemon = MACHOP,19
 #-------------------------------
 [FISHERMAN,Andrew]
@@ -71,10 +71,10 @@ Pokemon = MAGIKARP,18
 LoseText = "My Skitty!"
 Pokemon = SKITTY,18
 #-------------------------------
-[LASS,Crissy]
-LoseText = "You didn't have to win so convincingly!"
-Pokemon = PLUSLE,17
-Pokemon = MINUN,17
+[LASS,Cassie]
+LoseText = "Not my minun!!!"
+Pokemon = PLUSLE,7
+Pokemon = MINUN,7
 #-------------------------------
 [COOLCOUPLE,Alice & Bob]
 LoseText = "Our teamwork failed!"
